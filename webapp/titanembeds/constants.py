@@ -1119,4 +1119,10 @@ GLOBAL_BANNED_WORDS = [
     "whore",
     "xrated",
     "xxx",
+    "lmao",
+    "lma0",
+    "1mao",
+    "1ma0",
+    "Damn", 
+    "Danm",
 ]
